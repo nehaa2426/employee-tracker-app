@@ -1,5 +1,3 @@
-# ib_cs_hl_ia3
-
 A new Flutter application.
 
 ## Getting Started
